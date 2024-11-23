@@ -1,0 +1,5 @@
+## Requirements
+```
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+```
