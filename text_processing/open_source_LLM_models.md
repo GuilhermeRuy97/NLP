@@ -1,4 +1,5 @@
 **A list with some most recent Open Source LLM Models with their license** (e.g. comercial use) --> Contribute more if you know!
+
 _Note: Verify this information before using._
 
 ## 1. LLaMA 3.1
